@@ -1,0 +1,28 @@
+# Generated merge output
+all.json
+**/all.json
+
+# CPA account data and other JSON inputs
+*.json
+
+# Local planning/process notes
+/docs/superpowers/
+
+# UUID-named CPA data directories
+????????-????-????-????-????????????/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
